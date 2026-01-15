@@ -1,0 +1,28 @@
+# Image files used for reference (not needed in deployed site)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Claude Code directory
+.claude/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
