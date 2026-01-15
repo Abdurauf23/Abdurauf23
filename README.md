@@ -14,15 +14,7 @@ I'm **Abdurauf Vakhobov**, a Java Backend Developer from Tashkent, Uzbekistan.
 - **Backend**: Java (17, 21), Spring Boot, Kotlin, Python
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Messaging**: Kafka, RabbitMQ
-- **DevOps**: Docker, Kubernetes, AWS, CI/CD
+- **DevOps**: Docker
 - **AI**: Spring AI, RAG, MCP, OpenAI, Claude
-
-## Find me
-
-- 📧 [v.abdurauf06@gmail.com](mailto:v.abdurauf06@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdurauf-vakhobov-63298421b/)
-- 🌐 [Portfolio](https://abdurauf23.github.io)
-
----
 
 💡 Check out my [portfolio website](https://abdurauf23.github.io) for more details about my experience and projects!
