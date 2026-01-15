@@ -17,4 +17,4 @@ I'm **Abdurauf Vakhobov**, a Java Backend Developer from Tashkent, Uzbekistan.
 - **DevOps**: Docker
 - **AI**: Spring AI, RAG, MCP, OpenAI, Claude
 
-💡 Check out my [portfolio website](https://abdurauf23.github.io) for more details about my experience and projects!
+💡 Check out my [portfolio website](https://abdurauf23.github.io/Abdurauf23/) for more details about my experience and projects!
